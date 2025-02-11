@@ -224,11 +224,11 @@ if __name__ == '__main__':
     #mylog.info('比对结果content的长度为：'%content.__len__())
     # smtpserver = 'smtp.126.com'
     # smtpUser = 'univiewScan'
-    # smtpPasswd = 'zxp2165809'
+    # smtpPasswd = 'xxxxxxxxx'
     #sender = 'UniviewScan@126.com'
     smtpserver = 'smtp.qq.com'
     smtpUser = '1543913085@qq.com'
-    smtpPasswd = 'hvlpnzqtkmqrhbbg'
+    smtpPasswd = 'xxxxxxxxx'
     sender = '1543913085@qq.com'
     receiver = ['zhaoxuepeng@uniview.com','zhaozihua@uniview.com','zhaohui@uniview.com','lijian02681@uniview.com']
     #receiver = ["UniviewScan@126.com","495149700@qq.com",'zhaoxuepeng@uniview.com']
